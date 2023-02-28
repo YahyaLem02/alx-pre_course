@@ -1,1 +1,0 @@
-In Vi or Vim, you can use the "dd" command to delete the current line. To cut the current line, you can use the "dd" command to delete the line and store it in the default buffer, and then use the "p" command to paste it where you want to move the line.
